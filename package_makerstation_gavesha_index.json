@@ -10,7 +10,7 @@
       },  
       "platforms": [
         {
-          "name": "esp32", 
+          "name": "Gavesha", 
           "architecture": "esp32", 
           "version": "1.0.0", 
           "category": "ESP32", 
